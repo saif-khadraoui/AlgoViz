@@ -1,0 +1,16 @@
+.navbar{
+    height: 60px;
+    width: 100%;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    .left{
+        margin-left: 30px;
+        .logo{
+            p{
+                color: white;
+                font-size: 18px;
+            }
+        }
+    }
+}

@@ -1,0 +1,27 @@
+.sortingnavbar{
+    height: 60px;
+    width: 100%;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    gap: 30px;
+
+    .left{
+        margin-left: 30px;
+        .logo{
+            p{
+                color: white;
+                font-size: 18px;
+                
+            }
+        }
+    }
+
+    .middle{
+        display: flex;
+        gap: 5px;
+        p{
+            color: white;
+        }
+    }
+}
